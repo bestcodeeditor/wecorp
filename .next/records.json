@@ -1,0 +1,50 @@
+{
+  "mini-css-extract-plugin ../../../2019 projects\\Next\\corporate\\node_modules\\css-loader\\index.js??ref--7-1!../../../2019 projects\\Next\\corporate\\node_modules\\mdbreact\\dist\\css\\mdb.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../../2019 projects\\Next\\corporate\\node_modules\\css-loader\\index.js??ref--7-1!../../../2019 projects\\Next\\corporate\\node_modules\\@fortawesome\\fontawesome-free\\css\\all.min.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../../2019 projects\\Next\\corporate\\node_modules\\css-loader\\index.js??ref--7-1!../../../2019 projects\\Next\\corporate\\node_modules\\bootstrap-css-only\\css\\bootstrap.min.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {},
+    "bySource": {},
+    "usedIds": []
+  }
+}
